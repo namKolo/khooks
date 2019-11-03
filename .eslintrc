@@ -1,0 +1,9 @@
+{
+	"extends": ["eslint-config-airbnb"],
+  "rules": {
+    "quotes": [2, "single"],
+    "strict": [2, "never"],
+    "semi": 2,
+    "comma-dangle": 0
+  }
+}
